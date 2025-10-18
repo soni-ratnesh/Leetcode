@@ -17,11 +17,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soni-ratnesh/Leetcode/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/soni-ratnesh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soni-ratnesh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0937-online-stock-span](https://github.com/soni-ratnesh/Leetcode/tree/master/0937-online-stock-span) |
+| [1078-remove-outermost-parentheses](https://github.com/soni-ratnesh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
