@@ -20,6 +20,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/soni-ratnesh/Leetcode/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/soni-ratnesh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/soni-ratnesh/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Stack
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/soni-ratnesh/Leetcode/tree/master/0605-can-place-flowers) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/soni-ratnesh/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
