@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/soni-ratnesh/Leetcode/tree/master/0075-sort-colors) |
+| [0345-reverse-vowels-of-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soni-ratnesh/Leetcode/tree/master/0020-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/soni-ratnesh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/soni-ratnesh/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Stack
