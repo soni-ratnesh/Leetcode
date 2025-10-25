@@ -7,6 +7,7 @@
 | [0075-sort-colors](https://github.com/soni-ratnesh/Leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/soni-ratnesh/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/soni-ratnesh/Leetcode/tree/master/0605-can-place-flowers) |
+| [0735-asteroid-collision](https://github.com/soni-ratnesh/Leetcode/tree/master/0735-asteroid-collision) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/soni-ratnesh/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soni-ratnesh/Leetcode/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/soni-ratnesh/Leetcode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/soni-ratnesh/Leetcode/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/soni-ratnesh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -67,5 +69,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/soni-ratnesh/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
