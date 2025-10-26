@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/soni-ratnesh/Leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/soni-ratnesh/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/soni-ratnesh/Leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/soni-ratnesh/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,4 +73,8 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/soni-ratnesh/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/soni-ratnesh/Leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
