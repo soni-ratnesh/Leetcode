@@ -8,7 +8,6 @@ class Solution:
                 count+=1
         result = count
         for ii in range(k, len(s)):
-            print(ii-k, ii, count)
             if s[ii-k] in v:
                 count-=1
             if s[ii] in v:
