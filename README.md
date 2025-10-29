@@ -8,6 +8,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/soni-ratnesh/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/soni-ratnesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/soni-ratnesh/Leetcode/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/soni-ratnesh/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/soni-ratnesh/Leetcode/tree/master/0735-asteroid-collision) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/soni-ratnesh/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/soni-ratnesh/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/soni-ratnesh/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/soni-ratnesh/Leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/soni-ratnesh/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
