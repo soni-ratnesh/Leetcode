@@ -11,6 +11,7 @@
 | [0605-can-place-flowers](https://github.com/soni-ratnesh/Leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/soni-ratnesh/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/soni-ratnesh/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/soni-ratnesh/Leetcode/tree/master/0739-daily-temperatures) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/soni-ratnesh/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/soni-ratnesh/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
@@ -42,6 +43,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/soni-ratnesh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/soni-ratnesh/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/soni-ratnesh/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/soni-ratnesh/Leetcode/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/soni-ratnesh/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -53,6 +55,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/soni-ratnesh/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/soni-ratnesh/Leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
