@@ -7,7 +7,7 @@ class Solution:
             for jj in range(len(t)):
                 if s[ii] == t[jj]:
                     ii+=1
-                if ii >= len(s):
+                if ii == len(s):
                     return True
 
             return False
