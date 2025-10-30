@@ -12,6 +12,7 @@
 | [0724-find-pivot-index](https://github.com/soni-ratnesh/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/soni-ratnesh/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/soni-ratnesh/Leetcode/tree/master/0739-daily-temperatures) |
+| [1319-unique-number-of-occurrences](https://github.com/soni-ratnesh/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/soni-ratnesh/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/soni-ratnesh/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
@@ -104,6 +105,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/soni-ratnesh/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/soni-ratnesh/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
