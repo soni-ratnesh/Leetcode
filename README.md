@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/soni-ratnesh/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/soni-ratnesh/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/soni-ratnesh/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0394-decode-string) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/soni-ratnesh/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
