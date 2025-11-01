@@ -14,6 +14,7 @@
 | [0739-daily-temperatures](https://github.com/soni-ratnesh/Leetcode/tree/master/0739-daily-temperatures) |
 | [1319-unique-number-of-occurrences](https://github.com/soni-ratnesh/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/soni-ratnesh/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/soni-ratnesh/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/soni-ratnesh/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -23,11 +24,13 @@
 | [0283-move-zeroes](https://github.com/soni-ratnesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/soni-ratnesh/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/soni-ratnesh/Leetcode/tree/master/0075-sort-colors) |
 | [1777-determine-if-two-strings-are-close](https://github.com/soni-ratnesh/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/soni-ratnesh/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/soni-ratnesh/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/soni-ratnesh/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/soni-ratnesh/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
