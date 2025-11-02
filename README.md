@@ -9,6 +9,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/soni-ratnesh/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/soni-ratnesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/soni-ratnesh/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/soni-ratnesh/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/soni-ratnesh/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/soni-ratnesh/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/soni-ratnesh/Leetcode/tree/master/0739-daily-temperatures) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/soni-ratnesh/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/soni-ratnesh/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/soni-ratnesh/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
