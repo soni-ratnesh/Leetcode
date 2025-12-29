@@ -22,6 +22,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/soni-ratnesh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/soni-ratnesh/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/soni-ratnesh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/soni-ratnesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0392-is-subsequence) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soni-ratnesh/Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/soni-ratnesh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0394-decode-string) |
