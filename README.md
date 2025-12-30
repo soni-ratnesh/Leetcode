@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/soni-ratnesh/Leetcode/tree/master/0011-container-with-most-water) |
+| [0074-search-a-2d-matrix](https://github.com/soni-ratnesh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/soni-ratnesh/Leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/soni-ratnesh/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/soni-ratnesh/Leetcode/tree/master/0283-move-zeroes) |
@@ -75,6 +76,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/soni-ratnesh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/soni-ratnesh/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/soni-ratnesh/Leetcode/tree/master/0704-binary-search) |
 ## Sliding Window
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/soni-ratnesh/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/soni-ratnesh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
