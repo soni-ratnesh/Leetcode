@@ -103,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/soni-ratnesh/Leetcode/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/soni-ratnesh/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/soni-ratnesh/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Simulation
@@ -117,6 +118,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/soni-ratnesh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soni-ratnesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0392-is-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/soni-ratnesh/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -153,6 +155,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/soni-ratnesh/Leetcode/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/soni-ratnesh/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
 |  |
