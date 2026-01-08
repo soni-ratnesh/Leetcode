@@ -3,12 +3,14 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        num_pointer = 0
+        ii, jj = 0,0
 
-        for ii in range(len(nums)):
-            if nums[ii] != 0:
-                nums[num_pointer] = nums[ii]
-                num_pointer +=1
-
-        for ii in range(num_pointer, len(nums)):
+        while jj<len(nums):
+            if nums[jj]!=0:
+                nums[ii] = nums[jj]
+                ii+=1
+            jj+=1
+        
+        while ii<len(nums):
             nums[ii] = 0
+            ii+=1
