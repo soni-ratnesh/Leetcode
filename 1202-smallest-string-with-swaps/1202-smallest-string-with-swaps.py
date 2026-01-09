@@ -2,12 +2,12 @@ class Solution:
     def smallestStringWithSwaps(self, s: str, pairs: List[List[int]]) -> str:
         root= [ii for ii in range(len(s))]
         
-        def find(x):
+        def find(x, root=root):
             if root[x] == x:
                 return root[x]
             root[x] = find(root[x])
             return root[x]
-        def union(x,y):
+        def union(x,y, root=root):
             root_x, root_y = find(x), find(y)
 
             if root_x!=root_y:
@@ -16,7 +16,6 @@ class Solution:
         
         for x,y in pairs:
             union(x,y)
-        print(root)
         
         d = {}
         d_index = {}
@@ -25,9 +24,6 @@ class Solution:
             d.setdefault(root_ii, []).append(s[ii])
             d_index.setdefault(root_ii, []).append(ii)
         
- 
-        print(d)
-        print(d_index)
         new_s = ["" for _ in range(len(s))]
         for key, val in d.items():
             val = sorted(val)
