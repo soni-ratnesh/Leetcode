@@ -17,7 +17,7 @@ class Solution:
             if node in visited:
                 return visited[node]
             
-            new_node = Node(val=node.val)
+            new_node = Node(node.val)
             visited[node] = new_node
 
             for n in node.neighbors:
