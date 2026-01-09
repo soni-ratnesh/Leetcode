@@ -9,7 +9,6 @@ class Solution:
 
             for d_ii, d_jj in moves:
                 new_ii, new_jj = ii+d_ii, jj+d_jj
-                print(new_ii, new_jj,in_range(new_ii, new_jj) )
                 if in_range(new_ii, new_jj) and visited[new_ii][new_jj] ==0 and grid[new_ii][new_jj]=="1":
                     dfs(new_ii, new_jj)
 
