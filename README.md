@@ -156,11 +156,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/soni-ratnesh/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/soni-ratnesh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/soni-ratnesh/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/soni-ratnesh/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/soni-ratnesh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/soni-ratnesh/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -179,4 +181,12 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/soni-ratnesh/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/soni-ratnesh/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/soni-ratnesh/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
