@@ -164,6 +164,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/soni-ratnesh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/soni-ratnesh/Leetcode/tree/master/0547-number-of-provinces) |
 | [1202-smallest-string-with-swaps](https://github.com/soni-ratnesh/Leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1971-find-if-path-exists-in-graph](https://github.com/soni-ratnesh/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/soni-ratnesh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/soni-ratnesh/Leetcode/tree/master/0547-number-of-provinces) |
 | [1202-smallest-string-with-swaps](https://github.com/soni-ratnesh/Leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1971-find-if-path-exists-in-graph](https://github.com/soni-ratnesh/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -195,8 +197,10 @@
 | [0547-number-of-provinces](https://github.com/soni-ratnesh/Leetcode/tree/master/0547-number-of-provinces) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/soni-ratnesh/Leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1202-smallest-string-with-swaps](https://github.com/soni-ratnesh/Leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1971-find-if-path-exists-in-graph](https://github.com/soni-ratnesh/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/soni-ratnesh/Leetcode/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/soni-ratnesh/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
