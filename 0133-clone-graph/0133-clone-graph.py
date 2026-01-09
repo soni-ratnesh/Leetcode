@@ -16,10 +16,9 @@ class Solution:
             
             new_node = Node(val=node.val)
             visited[node] = new_node
-            neighbors = []
+
             for n in node.neighbors:
-                neighbors.append(dfs(n))
-            new_node.neighbors = neighbors
+                new_node.neighbors.append(dfs(n))
             return new_node
         
         return dfs(node) if node else None
