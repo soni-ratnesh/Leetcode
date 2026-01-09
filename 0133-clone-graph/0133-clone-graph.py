@@ -9,6 +9,9 @@ class Node:
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
+        if not node:
+            return None
+
         visited = {}
         def dfs(node):
             if node in visited:
@@ -21,5 +24,5 @@ class Solution:
                 new_node.neighbors.append(dfs(n))
             return new_node
         
-        return dfs(node) if node else None
+        return dfs(node) 
             
