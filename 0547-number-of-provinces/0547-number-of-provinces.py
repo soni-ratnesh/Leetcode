@@ -8,9 +8,8 @@ class Solution:
 
         def union(root, x, y):
             root_x, root_y = find(x), find(y)
-            for ii in range(len(root)):
-                if root[ii] == root[root_y]:
-                    root[ii] = root[root_x]
+
+            root[root_y] = root[root_x]
         
         
         root = [i for i in range(len(isConnected))]
