@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soni-ratnesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soni-ratnesh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/soni-ratnesh/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/soni-ratnesh/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/soni-ratnesh/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/soni-ratnesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/soni-ratnesh/Leetcode/tree/master/0322-coin-change) |
@@ -166,6 +167,7 @@
 | [0100-same-tree](https://github.com/soni-ratnesh/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/soni-ratnesh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/soni-ratnesh/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/soni-ratnesh/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/soni-ratnesh/Leetcode/tree/master/0547-number-of-provinces) |
 | [1202-smallest-string-with-swaps](https://github.com/soni-ratnesh/Leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1971-find-if-path-exists-in-graph](https://github.com/soni-ratnesh/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -175,6 +177,7 @@
 | [0100-same-tree](https://github.com/soni-ratnesh/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/soni-ratnesh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/soni-ratnesh/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/soni-ratnesh/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/soni-ratnesh/Leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/soni-ratnesh/Leetcode/tree/master/0547-number-of-provinces) |
 | [1202-smallest-string-with-swaps](https://github.com/soni-ratnesh/Leetcode/tree/master/1202-smallest-string-with-swaps) |
@@ -197,9 +200,11 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/soni-ratnesh/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/soni-ratnesh/Leetcode/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/soni-ratnesh/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/soni-ratnesh/Leetcode/tree/master/0547-number-of-provinces) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/soni-ratnesh/Leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1202-smallest-string-with-swaps](https://github.com/soni-ratnesh/Leetcode/tree/master/1202-smallest-string-with-swaps) |
