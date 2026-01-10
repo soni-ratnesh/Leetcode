@@ -123,6 +123,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/soni-ratnesh/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/soni-ratnesh/Leetcode/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/soni-ratnesh/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/soni-ratnesh/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -199,6 +200,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/soni-ratnesh/Leetcode/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0394-decode-string) |
 ## Memoization
 |  |
@@ -225,4 +227,8 @@
 | [0133-clone-graph](https://github.com/soni-ratnesh/Leetcode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/soni-ratnesh/Leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/soni-ratnesh/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/soni-ratnesh/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
