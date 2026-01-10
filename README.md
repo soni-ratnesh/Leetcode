@@ -34,6 +34,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/soni-ratnesh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soni-ratnesh/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/soni-ratnesh/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/soni-ratnesh/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/soni-ratnesh/Leetcode/tree/master/0125-valid-palindrome) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soni-ratnesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/soni-ratnesh/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/soni-ratnesh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0392-is-subsequence) |
@@ -231,4 +233,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/soni-ratnesh/Leetcode/tree/master/0002-add-two-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
