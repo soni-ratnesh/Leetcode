@@ -10,6 +10,7 @@
 | [0074-search-a-2d-matrix](https://github.com/soni-ratnesh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/soni-ratnesh/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soni-ratnesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soni-ratnesh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/soni-ratnesh/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/soni-ratnesh/Leetcode/tree/master/0200-number-of-islands) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soni-ratnesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/soni-ratnesh/Leetcode/tree/master/0133-clone-graph) |
 | [1202-smallest-string-with-swaps](https://github.com/soni-ratnesh/Leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1319-unique-number-of-occurrences](https://github.com/soni-ratnesh/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -204,6 +206,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/soni-ratnesh/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/soni-ratnesh/Leetcode/tree/master/0547-number-of-provinces) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/soni-ratnesh/Leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
