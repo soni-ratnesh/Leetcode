@@ -41,6 +41,7 @@
 | [0075-sort-colors](https://github.com/soni-ratnesh/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/soni-ratnesh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soni-ratnesh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/soni-ratnesh/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/soni-ratnesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0392-is-subsequence) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/soni-ratnesh/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/soni-ratnesh/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/soni-ratnesh/Leetcode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/soni-ratnesh/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/soni-ratnesh/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Simulation
@@ -159,6 +161,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/soni-ratnesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/soni-ratnesh/Leetcode/tree/master/0133-clone-graph) |
+| [0202-happy-number](https://github.com/soni-ratnesh/Leetcode/tree/master/0202-happy-number) |
 | [1202-smallest-string-with-swaps](https://github.com/soni-ratnesh/Leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1319-unique-number-of-occurrences](https://github.com/soni-ratnesh/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/soni-ratnesh/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
