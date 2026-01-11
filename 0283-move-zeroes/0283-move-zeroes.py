@@ -7,10 +7,6 @@ class Solution:
 
         while jj<len(nums):
             if nums[jj]!=0:
-                nums[ii] = nums[jj]
+                nums[ii], nums[jj] = nums[jj], nums[ii]
                 ii+=1
             jj+=1
-        
-        while ii<len(nums):
-            nums[ii] = 0
-            ii+=1
