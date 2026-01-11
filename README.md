@@ -51,6 +51,7 @@
 | [0283-move-zeroes](https://github.com/soni-ratnesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/soni-ratnesh/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/soni-ratnesh/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/soni-ratnesh/Leetcode/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/soni-ratnesh/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
 | ------- |
