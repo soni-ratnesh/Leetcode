@@ -10,7 +10,6 @@ class Solution:
         while (jj-ii) >0:
             if s[ii] in vovels:
                 if s[jj] in vovels:
-                    print(ii, jj)
                     result[ii], result[jj] = s[jj], s[ii]
                     ii+=1
                     jj-=1
