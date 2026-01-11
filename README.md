@@ -19,6 +19,7 @@
 | [0200-number-of-islands](https://github.com/soni-ratnesh/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/soni-ratnesh/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/soni-ratnesh/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/soni-ratnesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/soni-ratnesh/Leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/soni-ratnesh/Leetcode/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/soni-ratnesh/Leetcode/tree/master/0605-can-place-flowers) |
@@ -49,6 +50,7 @@
 | [0189-rotate-array](https://github.com/soni-ratnesh/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/soni-ratnesh/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/soni-ratnesh/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/soni-ratnesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soni-ratnesh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/soni-ratnesh/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -115,6 +117,7 @@
 | [0074-search-a-2d-matrix](https://github.com/soni-ratnesh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soni-ratnesh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/soni-ratnesh/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/soni-ratnesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/soni-ratnesh/Leetcode/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
@@ -262,4 +265,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/soni-ratnesh/Leetcode/tree/master/0399-evaluate-division) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/soni-ratnesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
