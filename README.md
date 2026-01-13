@@ -31,6 +31,7 @@
 | [0724-find-pivot-index](https://github.com/soni-ratnesh/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/soni-ratnesh/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/soni-ratnesh/Leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/soni-ratnesh/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/soni-ratnesh/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/soni-ratnesh/Leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1202-smallest-string-with-swaps](https://github.com/soni-ratnesh/Leetcode/tree/master/1202-smallest-string-with-swaps) |
@@ -178,6 +179,7 @@
 | [0198-house-robber](https://github.com/soni-ratnesh/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/soni-ratnesh/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/soni-ratnesh/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/soni-ratnesh/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Hash Table
 |  |
