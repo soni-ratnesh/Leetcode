@@ -21,6 +21,7 @@
 | [0200-number-of-islands](https://github.com/soni-ratnesh/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/soni-ratnesh/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/soni-ratnesh/Leetcode/tree/master/0217-contains-duplicate) |
+| [0252-meeting-rooms](https://github.com/soni-ratnesh/Leetcode/tree/master/0252-meeting-rooms) |
 | [0283-move-zeroes](https://github.com/soni-ratnesh/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/soni-ratnesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/soni-ratnesh/Leetcode/tree/master/0322-coin-change) |
@@ -70,6 +71,7 @@
 | [0075-sort-colors](https://github.com/soni-ratnesh/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/soni-ratnesh/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/soni-ratnesh/Leetcode/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/soni-ratnesh/Leetcode/tree/master/0252-meeting-rooms) |
 | [0977-squares-of-a-sorted-array](https://github.com/soni-ratnesh/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/soni-ratnesh/Leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1202-smallest-string-with-swaps](https://github.com/soni-ratnesh/Leetcode/tree/master/1202-smallest-string-with-swaps) |
