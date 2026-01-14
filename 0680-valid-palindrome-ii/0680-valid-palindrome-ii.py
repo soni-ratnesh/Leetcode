@@ -1,5 +1,8 @@
+from functools import lru_cache
+
 class Solution:
-    def validPalindrome(self, s: str) -> bool:
+    def validPalindrome(self, s: str) -> bool:  
+        @lru_cache
         def check(st, ed, k):
             if ed-st<1:
                 return True
