@@ -295,4 +295,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/soni-ratnesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
