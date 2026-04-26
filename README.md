@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/soni-ratnesh/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/soni-ratnesh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/soni-ratnesh/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/soni-ratnesh/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soni-ratnesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soni-ratnesh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -294,10 +295,15 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/soni-ratnesh/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/soni-ratnesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/soni-ratnesh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/soni-ratnesh/Leetcode/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/soni-ratnesh/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
