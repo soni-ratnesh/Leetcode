@@ -1,28 +1,36 @@
 class Solution:
-
+    DIRECTIONS = [(0,1), (0,-1),(-1,0),(1,0)]
     def numIslands(self, grid: List[List[str]]) -> int:
+        if not grid:
+            return 0
+        
+        # count 
+        n_islands = 0
+        rows, cols = len(grid), len(grid[0])
 
-        def dfs(ii, jj):
-            visited[ii][jj]=1
+        # function to check if its inbounds
+        def inbounds(row, col):
+            return 0<=row<rows and 0<=col<cols
+        # dfs 
+        def dfs(row, col):
+            stack = [(row,col)]
 
-            moves = [[0,1],[0,-1],[-1,0],[1,0]]
-
-            for d_ii, d_jj in moves:
-                new_ii, new_jj = ii+d_ii, jj+d_jj
-                if in_range(new_ii, new_jj) and visited[new_ii][new_jj] ==0 and grid[new_ii][new_jj]=="1":
-                    dfs(new_ii, new_jj)
-
-        def in_range(ii, jj):
-            return 0<=ii<len(grid) and 0<=jj<len(grid[0])
-
-        m,n = len(grid), len(grid[0])
-
-        visited = [[0 for _ in range(n)] for _ in range(m)]
-        count = 0
-        for ii in range(m):
-            for jj in range(n):
-                if (visited[ii][jj]==0) and (grid[ii][jj]=="1"):
-                    count+=1
-                    dfs(ii,jj)
+            while stack:
+                r,c = stack.pop()
                 
-        return count
+                if not inbounds(r,c) or grid[r][c] == "0":
+                    continue
+                
+                grid[r][c] = "0"
+
+                for dr, dc in self.DIRECTIONS:
+                    nr, nc = r+dr, c+dc
+                    stack.append((nr,nc))
+
+        for r in range(rows):
+            for c in range(cols):
+                if grid[r][c]=="1":
+                    n_islands+=1
+                    dfs(r,c)
+        
+        return n_islands
